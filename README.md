@@ -31,15 +31,3 @@
 
      
 <h2 align="left">:heart: Let's get connected</h2>
-大喊大叫ls手机端d
-sdsdg个
-
-dasjdfka 
-jsdkjf fsnklglfj sksfbn
-f nskgaliown klsang anskjhf kl
-sfjkl njlfnk klwa
- nklgalnsfl ia
- 
- ahglanlbd najwleiojnzs, hiklank 
- asndkl oalmndwjkl labnskdl efjba'd  a 
-  jsdkkqw 
