@@ -24,10 +24,5 @@
  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="40" height="40"/> </a>
  <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
     </p>
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :computer: I'm a Fullstack Developer, currently exploring Loon-Script
-
-     
-<h2 align="left">:heart: Let's get connected</h2>
+  
+   <h2 align="left">:heart: Let's get connected</h2>
