@@ -12,6 +12,14 @@
 
 ---
 
+### 📚 My Collections
+
+<p align="center">
+  <a href="https://github.com/xwOzzz/Loon-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Loon-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Loon-Script" /></a>
+  <a href="https://github.com/xwOzzz/Shadowrocket-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Shadowrocket-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Shadowrocket-Script" /></a>
+</p>
+
+
 ### ✨ About me
 
 - 🔧 I collect and organize handy scripts & configs for proxy tools
@@ -35,13 +43,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
-</p>
-
-### 📚 My Collections
-
-<p align="center">
-  <a href="https://github.com/xwOzzz/Loon-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Loon-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Loon-Script" /></a>
-  <a href="https://github.com/xwOzzz/Shadowrocket-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Shadowrocket-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Shadowrocket-Script" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
