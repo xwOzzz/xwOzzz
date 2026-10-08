@@ -41,10 +41,7 @@
 
 <p align="center">
   <a href="https://github.com/xwOzzz/Loon-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Loon-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Loon-Script" /></a>
-  <a href="https://github.com/xwOzzz/Surge-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Surge-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Surge-Script" /></a>
-</p>
-<p align="center">
-  <a href="https://github.com/xwOzzz/Sub-store"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Sub-store&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Sub-store" /></a>
+  <a href="https://github.com/xwOzzz/Shadowrocket-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Shadowrocket-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Shadowrocket-Script" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
