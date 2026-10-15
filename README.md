@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm YOYI 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/xwOzzz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+profile;Script+collector+%26+tinkerer;Loon+%C2%B7+Surge+%C2%B7+Shadowrocket+%C2%B7+QX" alt="Typing SVG" /></a>
+  <a href="https://github.com/xwOzzz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+profile;Script+collector+%26+tinkerer;Loon+%C2%B7+Shadowrocket+%C2%B7+QX" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -23,7 +23,7 @@
 ### ✨ About me
 
 - 🔧 I collect and organize handy scripts & configs for proxy tools
-- 📦 Loon · Surge · Quantumult X · Shadowrocket
+- 📦 Loon · Shadowrocket · Quantumult X
 - 🌱 Keeping my repos tidy, one commit at a time
 
 ### 📊 GitHub Stats
