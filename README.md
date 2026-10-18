@@ -3,7 +3,7 @@
 <h1 align="center">Hi there, I'm YOYI 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/xwOzzz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+profile;Script+collector+%26+tinkerer;Loon+%C2%B7+Shadowrocket+%C2%B7+QX" alt="Typing SVG" /></a>
+  <a href="https://github.com/xwOzzz"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=7AA2F7&center=true&vCenter=true&width=520&lines=Welcome+to+my+GitHub+profile;Script+collector+%26+tinkerer;Loon+%C2%B7+Shadowrocket+%C2%B7+Quantumult+X" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -18,7 +18,6 @@
   <a href="https://github.com/xwOzzz/Loon-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Loon-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Loon-Script" /></a>
   <a href="https://github.com/xwOzzz/Shadowrocket-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Shadowrocket-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Shadowrocket-Script" /></a>
 </p>
-
 
 ### ✨ About me
 
