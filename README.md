@@ -29,7 +29,7 @@
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=xwOzzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="stats" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=xwOzzz&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=xwOzzz&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak" />
 </p>
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwOzzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="top langs" />
