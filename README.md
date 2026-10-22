@@ -44,4 +44,9 @@
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 </p>
 
+### 🤖 My personal AI agent — Muse
+
+I use [Muse](https://muse.ai/join) as my personal AI agent for research, writing and daily automation.
+New users: redeem my invite code **FVYMY5** within 48 hours after joining — Muse app **Settings > Redeem token** — and we each get 1B Muse tokens (per the invite page).
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" />
