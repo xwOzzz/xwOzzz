@@ -19,6 +19,9 @@
   <a href="https://github.com/xwOzzz/Shadowrocket-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Shadowrocket-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Shadowrocket-Script" /></a>
 </p>
 
+- 🛠️ [**Loon-Script**](https://github.com/xwOzzz/Loon-Script) —— Loon 代理工具的脚本与配置合集（插件 / Cookie / 解锁 / TestFlight / JD / 通用配置）
+- 🚀 [**Shadowrocket-Script**](https://github.com/xwOzzz/Shadowrocket-Script) —— Shadowrocket（iOS）模块收集：去广告复写规则与 Cookie 抓取模块（转载自 [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)）
+
 ### ✨ About me
 
 - 🔧 I collect and organize handy scripts & configs for proxy tools
