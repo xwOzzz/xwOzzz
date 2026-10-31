@@ -20,7 +20,7 @@
 </p>
 
 - 🛠️ [**Loon-Script**](https://github.com/xwOzzz/Loon-Script) —— Loon 代理工具的脚本与配置合集（插件 / Cookie / 解锁 / TestFlight / JD / 脚本配置 / B站每日奖励 / 通用配置）
-- 🚀 [**Shadowrocket-Script**](https://github.com/xwOzzz/Shadowrocket-Script) —— Shadowrocket（iOS）模块收集：去广告复写规则与 Cookie 抓取模块（转载自 [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)）
+- 🚀 [**Shadowrocket-Script**](https://github.com/xwOzzz/Shadowrocket-Script) —— Shadowrocket（iOS）模块收集：去广告模块（740 条复写规则＋698 个 MITM 主机名）与 Cookie 抓取模块（6 款 App 签到 Cookie 抓取；转载自 [blackmatrix7](https://github.com/blackmatrix7/ios_rule_script)）
 
 ### ✨ About me
 
