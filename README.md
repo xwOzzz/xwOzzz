@@ -15,8 +15,8 @@
 ### 📚 My Collections
 
 <p align="center">
-  <a href="https://github.com/xwOzzz/Loon-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Loon-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Loon-Script" /></a>
-  <a href="https://github.com/xwOzzz/Shadowrocket-Script"><img src="https://github-readme-stats.vercel.app/api/pin/?username=xwOzzz&repo=Shadowrocket-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Shadowrocket-Script" /></a>
+  <a href="https://github.com/xwOzzz/Loon-Script"><img src="https://github-stats-extended.vercel.app/api/pin/?username=xwOzzz&repo=Loon-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Loon-Script" /></a>
+  <a href="https://github.com/xwOzzz/Shadowrocket-Script"><img src="https://github-stats-extended.vercel.app/api/pin/?username=xwOzzz&repo=Shadowrocket-Script&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="Shadowrocket-Script" /></a>
 </p>
 
 - 🛠️ [**Loon-Script**](https://github.com/xwOzzz/Loon-Script) —— Loon 代理工具的脚本与配置合集（插件 / Cookie / 解锁 / TestFlight / JD / 脚本配置 / B站每日奖励 / 通用配置）
@@ -31,11 +31,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=xwOzzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="stats" />
+  <img height="160" src="https://github-stats-extended.vercel.app/api?username=xwOzzz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="stats" />
   <img height="160" src="https://streak-stats.demolab.com/?user=xwOzzz&theme=tokyonight&hide_border=true&background=1a1b27" alt="streak" />
 </p>
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xwOzzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="top langs" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=xwOzzz&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b27" alt="top langs" />
 </p>
 
 ### 🛠️ Tech Stack
